@@ -1,4 +1,3 @@
-![1000_F_157277052_SJe25ArSgIJnn0Uy65hy09SH6mWMDg7V](https://github.com/user-attachments/assets/390065ac-59d9-4ded-bc75-b3a260eced1e)
 <h1 align="center">Hi 👋, I'm Denis Savishchev</h1>
 <h3 align="center">Mobile developer</h3>
 
