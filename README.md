@@ -21,3 +21,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denissavishchev&" alt="denissavishchev" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denissavishchev" alt="denissavishchev" /></a> </p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=denissavishchev&bg_color=000000&color=ffffff&line=ff4013&point=001e57&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
